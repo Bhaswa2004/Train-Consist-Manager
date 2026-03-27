@@ -26,7 +26,7 @@ class Bogie {
 }
 
 // Main class
-public class uc9 {
+public class TrainConsistApp {
     public static void main(String[] args) {
 
         // Step 1: Create list (can reuse from UC7/UC8)
